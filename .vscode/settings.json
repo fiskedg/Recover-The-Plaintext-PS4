@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "stub/src"
+    ],
+    "java.project.referencedLibraries": [
+        "stub/lib/merrimackutil.jar"
+    ]
+}
